@@ -841,6 +841,14 @@ conda install -c conda-forge opencv=4.10.0
   - and, make sure you use the corresponding ffmpeg binary to your install with `which ffmpeg`.
 - On Linux, if the left and right arrow keys and escape key don't have any effect during data recording, make sure you've set the `$DISPLAY` environment variable. See [pynput limitations](https://pynput.readthedocs.io/en/latest/limitations.html#linux).
 
+Note from Abby: The above all failed but the following worked for the conda environment:
+brew install ffmpeg (check that it includes the libsvtav1 encoder with ffmpeg -encoders | grep libsvtav1)
+pip install -e ".[dynamixel]"
+conda install -c conda-forge libjpeg-turbo=2.1.1
+conda install -c conda-forge opencv
+pip uninstall numpy
+conda install -c conda-forge numpy=1.24.3
+
 At the end of data recording, your dataset will be uploaded on your Hugging Face page (e.g. https://huggingface.co/datasets/cadene/koch_test) that you can obtain by running:
 ```bash
 echo https://huggingface.co/datasets/${HF_USER}/koch_test
