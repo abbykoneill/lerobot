@@ -1,3 +1,13 @@
+Lab Checkoff
+
+### Lab Table of Contents
+1. [1_chatgpt.ipynb](https://github.com/abbykoneill/lerobot/blob/main/lab_part2/1_chatgpt.ipynb)
+2. [2_CLIP.ipynb](https://github.com/abbykoneill/lerobot/blob/main/lab_part2/2_CLIP.ipynb)
+3. [3_VLM_BLIP.ipynb](https://github.com/abbykoneill/lerobot/blob/main/lab_part2/3_VLM_BLIP.ipynb)
+4. [4_VLA.ipynb](https://github.com/abbykoneill/lerobot/blob/main/lab_part2/4_VLA.ipynb)
+5. [5_safety.ipynb](https://github.com/abbykoneill/lerobot/blob/main/lab_part2/5_safety.ipynb)
+6. **[Lab Checkoff](https://github.com/abbykoneill/lerobot/blob/main/lab_part2/checkoff.txt)**
+
 This checkoff assessment is intended to check comprehension of concepts explored in this lab, including:
 - Imitation Learning
 - Vision Language Models (VLMs)
