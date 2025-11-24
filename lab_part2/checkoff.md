@@ -1,4 +1,4 @@
-Lab Checkoff
+# Lab Checkoff
 
 ### Lab Table of Contents
 * Part 1
@@ -11,17 +11,18 @@ Lab Checkoff
     5. [5_safety.ipynb](https://github.com/abbykoneill/lerobot/blob/main/lab_part2/5_safety.ipynb)
 * **[Lab Checkoff](https://github.com/abbykoneill/lerobot/blob/main/lab_part2/checkoff.txt)**
 
+## Instructions
 This checkoff assessment is intended to check comprehension of concepts explored in this lab, including:
-- Imitation Learning
-- Vision Language Models (VLMs)
-- Vision Language Action Models (VLAs)
-- GenAI x Safety
+* Imitation Learning
+* Vision Language Models (VLMs)
+* Vision Language Action Models (VLAs)
+* GenAI x Safety
 
-You will be asked a random selection of 4 of the 7 questions below.
+You will be asked a random selection of **4 of the 7** questions below.
 For each question, you are expected to:
-- Answer with one proof or reasoning step that demonstrates knowledge from the assignment
+* Answer with one proof or reasoning step that demonstrates knowledge from the assignment
 
-Checkoff questions
+### Checkoff questions
 1. What is used to train a behavioral cloning policy for an imitation learning model? What is a potential failure case in this model?
 2. What is the input and output of the BLIP image-captioning VLM implemented in this lab? Are these the only possible input(s) and output(s) to a VLM?
 3. What does a VLA stand for? How does it relate to a VLM?
