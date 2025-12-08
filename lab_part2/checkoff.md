@@ -26,7 +26,7 @@ For each question, you are expected to:
 1. What is used to train a behavioral cloning policy for an imitation learning model? What is a potential failure case in this model?
 2. What is the input and output of the BLIP image-captioning VLM implemented in this lab? Are these the only possible input(s) and output(s) to a VLM?
 3. What does a VLA stand for? How does it relate to a VLM?
-4. What is the input and output of the Pi0 VLA? Are these the only possible input(s) and output(s) to a VLA?
-5. What is a foundational model? Would GPT-4 be considered a foundational model? BLIP captioning? Pi0?
+4. What is the input and output of the SmolVLA VLA? Are these the only possible input(s) and output(s) to a VLA?
+5. What is a foundational model? Would GPT-4 be considered a foundational model? BLIP captioning? SmolVLA?
 6. What are some safety concerns about generative AI models (VLMs, VLAs) being implemented into robotic pipelines?
 7. What does safety mean to you in the context of robotics? How comfortable would you feel using GenAI in real world deployments? How might you design better safety guarantees for these models (using your definition of safety and what you’ve learned in this course so far)?
