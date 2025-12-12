@@ -9,7 +9,7 @@
     3. [3_VLM_BLIP.ipynb](https://github.com/abbykoneill/lerobot/blob/main/lab_part2/3_VLM_BLIP.ipynb)
     4. [4_VLA.ipynb](https://github.com/abbykoneill/lerobot/blob/main/lab_part2/4_VLA.ipynb)
     5. [5_safety.ipynb](https://github.com/abbykoneill/lerobot/blob/main/lab_part2/5_safety.ipynb)
-* **[Lab Checkoff](https://github.com/abbykoneill/lerobot/blob/main/lab_part2/checkoff.txt)**
+* **[Lab Checkoff](https://github.com/abbykoneill/lerobot/blob/main/lab_part2/checkoff.md)**
 
 ## Instructions
 This checkoff assessment is intended to check comprehension of concepts explored in this lab, including:
